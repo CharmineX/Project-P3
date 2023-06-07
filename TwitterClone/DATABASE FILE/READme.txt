@@ -1,0 +1,1 @@
+De tweetphp.sql bestand moet je importeren in PHPmyAdmin, zodat er een connectie met database wordt gemaakt.

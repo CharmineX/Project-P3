@@ -1,0 +1,1 @@
+Zet de TwitterClone folder in de 'htdocs' van bijvoorbeeld: XAMMP
